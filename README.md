@@ -1,7 +1,7 @@
 # RADME
 
 
-Author | 王十二
+Author | 王十五
 -------|------
 E-mail |zhhwang16@lzu.edu.cn
   
@@ -17,4 +17,7 @@ E-mail |zhhwang16@lzu.edu.cn
 * **Quick sort**  
 * **Radix sort**  
 * **Select sort**  
-* **Shell sort**  
+* **Shell sort**    
+
+**Dynamic algorithm**  
+* **0-1 bag algorithm** 
