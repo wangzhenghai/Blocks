@@ -4,7 +4,7 @@ def search(testdata, start, end, key):
     mid = (start + end) // 2
     if testdata[mid] == key:
         return mid
-    elif testdata[mid] > mid:
+    elif testdata[mid] > key:
         return search(testdata, start, mid, key)
     else:
         return search(testdata, mid + 1, end, key)
