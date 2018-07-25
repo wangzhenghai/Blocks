@@ -19,5 +19,7 @@ E-mail |zhhwang16@lzu.edu.cn
 * **Select sort**  
 * **Shell sort**    
 
-**Dynamic algorithm**  
-* **0-1 bag algorithm** 
+**Dynamic programming**  
+* **0-1 bag algorithm**  
+* **longest increasing subsequence**  
+* **improved longest increasing subsequence O(nlog(n))**
