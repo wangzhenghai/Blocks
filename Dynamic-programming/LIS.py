@@ -7,7 +7,7 @@ def LIS(testlist):
             if (testlist[i] > testlist[k]) and (res[i] < res[k]  + 1):
                 res[i] = res[k] + 1
             k += 1
-    print(res)
+    #print(res)
     return max(res)
 
 if __name__ == '__main__':
